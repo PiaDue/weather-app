@@ -6,7 +6,7 @@
 const options = {
   method: 'GET',
   headers: {
-    'X-RapidAPI-Key': 'dde556fb69msha1fa08987b33130p13b376jsn285747eeb2da',
+    'X-RapidAPI-Key': secrets.TOKEN,
     'X-RapidAPI-Host': 'open-weather13.p.rapidapi.com'
   }
 }
